@@ -1,0 +1,14 @@
+{
+    "configurations": [
+      {
+        "name": "ESP32",
+        "compilerPath": "/home/yacine/.espressif/tools/xtensa-esp-elf/esp-14.2.0_20241119/xtensa-esp-elf/bin/xtensa-esp32-elf-gcc",
+        "intelliSenseMode": "gcc-x64",
+        "cStandard": "gnu17",
+        "cppStandard": "gnu++17",
+        "compileCommands": "/home/yacine/ComputerEng/projects/PMU-PFE/Firmware/build/compile_commands.json"
+      }
+    ],
+    "version": 4
+  }
+  

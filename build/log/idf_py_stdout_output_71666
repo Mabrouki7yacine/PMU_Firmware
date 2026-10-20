@@ -1,0 +1,19 @@
+[0/1] Re-running CMake...
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32
+-- Project sdkconfig file /home/yacine/ComputerEng/projects/PMU-PFE/Firmware/sdkconfig
+-- Compiler supported targets: xtensa-esp-elf
+-- App "Firmware" version: 1
+-- Adding linker script /home/yacine/ComputerEng/projects/PMU-PFE/Firmware/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script /home/yacine/ComputerEng/projects/PMU-PFE/Firmware/build/esp-idf/esp_system/ld/sections.ld.in
+-- Adding linker script /home/yacine/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /home/yacine/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script /home/yacine/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /home/yacine/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script /home/yacine/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script /home/yacine/esp/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script /home/yacine/esp/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Configuring incomplete, errors occurred!
+FAILED: build.ninja 
+/usr/bin/cmake --regenerate-during-build -S/home/yacine/ComputerEng/projects/PMU-PFE/Firmware -B/home/yacine/ComputerEng/projects/PMU-PFE/Firmware/build

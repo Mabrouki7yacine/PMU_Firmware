@@ -1,0 +1,2 @@
+source /home/yacine/ComputerEng/projects/PMU-PFE/Firmware/build/bootloader/gdbinit/symbols
+source /home/yacine/ComputerEng/projects/PMU-PFE/Firmware/build/bootloader/gdbinit/connect
